@@ -1,0 +1,28 @@
+body {
+  background-color: #f0ECE3;
+}
+
+h1 {
+  color: red;
+  font-size: 100px;
+}
+
+#judul {
+  color: blue;
+}
+
+.daging{
+  background-color: red;
+}
+
+.broccoli{
+  background-color: green;
+}
+
+.bulat{
+  border-radius: 100%;
+}
+
+img:hover {
+  background-color: teal;
+}
